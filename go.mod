@@ -1,4 +1,4 @@
-module helloGo
+module github.com/sikander27/helloGo
 
 go 1.18
 
